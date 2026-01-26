@@ -1,5 +1,38 @@
-# <p align="center"> Welcome to my GitHub! <p/>
+# <p align="center"> Welcome! <p/>
+
+<p align="center">
+  <strong>Nattawut Boonnoon, (Fluke)</strong>
+</p>
+
+<p align="center">
+  Data Science ‧ Machine Learning ‧ Operations Research ‧ Market Insights ‧ Forecasting
+</p>
 
 # <p align="center"> Featured Projects <p/>
 
-# <p align="center"> Connect with me <p/>
+<div align="center">
+
+| No. | Dates | Projects | Brief Descriptions | Languages/Frameworks
+| :---: | :---: | :---: | :---: | :---:
+| 01 | 19 August 2024 - Present | [My Personal Trainings](https://github.com/Nattawut30/My-Personal-Training.git) | All the training materials are from me. I'll keep it updated. (100% Free) | SQL, Python, C++, Rust, Libraries, DSA, Workshops
+| 02 | 30 September, 2025 - 27 November, 2025 | [Hospital Management System](https://github.com/Nattawut30/Hospital-Management-System-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model. | SQL, MySQL
+| 03 | 1 February, 2026 - 14 March, 2026 | [Black-Scholes Pricing Model](https://github.com/Nattawut30/Pricing-Model-Python.git) | Pricing European options, including implied volatility, and live data integration. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
+
+</div>
+
+# <p align="center"> Connect With Me<p/>
+
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/nattawut-bn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/halabroc">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X|Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nattawut30">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
