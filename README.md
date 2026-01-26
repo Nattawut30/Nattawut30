@@ -8,6 +8,21 @@
   Data Science ‧ Machine Learning ‧ Operations Research ‧ Market Insights ‧ Forecasting
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rust.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" />
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nattawut30&color=blue" />
+</p>
+
 # <p align="center"> Featured Projects <p/>
 
 <div align="center">
@@ -20,18 +35,17 @@
 
 </div>
 
-# <p align="center"> Connect With Me<p/>
+# <p align="center"> Let's Connect<p/>
 
 <p align="center">
- 
   <a href="https://www.linkedin.com/in/nattawut-bn/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/halabroc">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X|Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Nattawut30">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
