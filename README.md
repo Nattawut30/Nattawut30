@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Data Science ‧ Machine Learning ‧ Operations Research ‧ Financial Modeling ‧ Quantitative Analysis
+Data Science · Machine Learning · Statistical Modeling · Quantitative Research
 </p>
 
 <p align="center">
