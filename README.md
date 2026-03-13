@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Data Science · Machine Learning · Statistical Modeling · Quantitative Research
+Data Science · Machine Learning · Quantitative Research · Mathematical Optimization
 </p>
 
 <p align="center">
