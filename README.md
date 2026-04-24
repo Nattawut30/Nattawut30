@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Data Science · Machine Learning · Quantitative Analysis · Optimized Research
+Data Science · Machine Learning · Quantitative Research · Optimized Performance
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ Data Science · Machine Learning · Quantitative Analysis · Optimized Research
 
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [My Personal Trainings](https://github.com/Nattawut30/My-Personal-Training.git) | All the training materials. (Free) | Excel, SQL, Python, C++, DSA, etc.
-| 02 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Database, Big Data
+| 01 | [My Personal Trainings](https://github.com/Nattawut30/My-Personal-Training.git) | All the training materials. (Free) | SQL, Python, C++, DSA, etc.
+| 02 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Database
 | 03 | [Black-Scholes Pricing Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility surface. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
 
 </div>
