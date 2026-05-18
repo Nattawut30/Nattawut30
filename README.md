@@ -22,15 +22,25 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
   <img src="https://komarev.com/ghpvc/?username=Nattawut30&color=blue" />
 </p>
 
+# <p align="center"> Training Sessions <p/>
+
+<div align="center">
+
+| No.  | Projects | Brief Descriptions | Languages/Frameworks
+| :---: | :---: | :---: | :---:
+| 01 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. friendly walkthrough. | Math, Stats, SQL, Python, ML/DL, LLMs, NLP, and more.
+| 02 | [Rust Traning]( --coming soon--) | Let's learn the Rust that works effectively with type system, concurrency model, and tooling, using patterns and idioms chosen for long-term stability. | Rust
+
+</div>
+
 # <p align="center"> Featured Projects <p/>
 
 <div align="center">
 
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Personal Trainings](https://github.com/Nattawut30/My-Personal-Training.git) | All the training materials. (Free) | SQL, Python, ML/DL, and more.
-| 02 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Database
-| 03 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility surface. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
+| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Database
+| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility surface. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
 
 </div>
 
