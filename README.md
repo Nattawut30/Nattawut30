@@ -29,7 +29,7 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
 | 01 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. friendly walkthrough. | Math, Stats, SQL, Python, ML/DL, LLMs, NLP, and more.
-| 02 | [Rust Traning](-- soon --) | Let's learn the Rust programming language that works effectively, quickly, and safely. Using patterns and idioms chosen for long-term stability. | Rust
+| 02 | [Rust Traning](-- soon --) | Let's learn the Rust programming language that works effectively, and safely. Using patterns and idioms chosen for long-term stability. | Rust
 
 </div>
 
