@@ -13,7 +13,8 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   
 
 </p>
@@ -28,8 +29,8 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
 
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. friendly walkthrough. | Math, Stats, SQL, Python, ML/DL, LLMs, NLP, and more.
-| 02 | [Rust Traning](-- soon --) | Let's learn the Rust programming language that works effectively, and safely. Using patterns and idioms chosen for long-term stability. | Rust
+| 01 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. friendly walkthrough. | Math, Stats, SQL, Python, ML/DL, LLMs, NLP.
+| 02 | [Rust Traning](- soon -) | Rust programming language that works effectively, and safely. Using patterns and idioms chosen for long-term stability. | Rust
 
 </div>
 
@@ -47,15 +48,17 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
 # <p align="center"> Let's Connect<p/>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/nattawut-bn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-<a href="mailto:nattawut.boonnoon@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+
+  <a href="mailto:nattawut.boonnoon@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  </a>
+
+<a href="https://x.com/Nattawut30">
+  <img src="https://img.shields.io/badge/Twitter%2FX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"/>
 </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nattawut30">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
 </p>
