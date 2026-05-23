@@ -28,8 +28,8 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
 
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. friendly walkthrough. | Math, Stats, SQL, Python, ML/DL, LLMs, NLP.
-| 02 | [Rust Traning](- soon -) | Rust programming language that works effectively, and safely. Using patterns and idioms chosen for long-term stability. | Rust
+| 01 | [Math Traning](https://github.com/Nattawut30/Math-For-Ai.git) | Mathematics is essential for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
+| 02 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
 
 </div>
 
@@ -39,8 +39,8 @@ Data Science · Machine Learning · Quantitative Research · Optimized Performan
 
 | No.  | Projects | Brief Descriptions | Languages/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Database
-| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility surface. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
+| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Big Query
+| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility visualization. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
 
 </div>
 
