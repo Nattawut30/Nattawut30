@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I do data science and machine learning with experience in building predictive models, statistical methods, and optimization. I am working on translating data into practical insights that support financial decision-making, risk management, and research.
+I do data science and machine learning with experience in building predictive models, and statistical methods. I am working on translating data into practical insights that support financial decision-making, risk management, and optimized research.
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@ I do data science and machine learning with experience in building predictive mo
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -63,7 +62,7 @@ I do data science and machine learning with experience in building predictive mo
 
 </div>
 
-# <p align="center"> Let's Connect<p/>
+# <p align="center"> Contacts<p/>
 
 <p align="center">
 
@@ -74,9 +73,5 @@ I do data science and machine learning with experience in building predictive mo
   <a href="mailto:nattawut.boonnoon@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-
-<a href="https://x.com/halabroc">
-  <img src="https://img.shields.io/badge/Twitter%2FX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"/>
-</a>
 
 </p>
