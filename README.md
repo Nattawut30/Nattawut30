@@ -47,7 +47,7 @@ I do data science and machine learning with experience in building predictive mo
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
 | 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Big Query
-| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility visualization. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
+| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data API integration, and 3D volatility visualization. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
 
 </div>
 
@@ -57,8 +57,8 @@ I do data science and machine learning with experience in building predictive mo
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Essential-Mathematics](https://github.com/Nattawut30/Math-For-Ai.git) | Mathematics is essential for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
+| 01 | [Essential-Mathematics](https://github.com/Nattawut30/Math-For-Ai.git) | (Free) Essential math for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
+| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | (Free) Python for AI from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly and practical walkthrough. | SQL, Python, DSA, ML/DL, LLMs, NLP
 
 </div>
 
