@@ -1,11 +1,11 @@
 # <p align="center"> Welcome! <p/>
 
 <p align="center">
-  <strong>Nattawut Boonnoon</strong>
+  <strong>Hi, I'm Nattawut Boonnoon or "Fluke"</strong>
 </p>
 
 <p align="center">
-I do data science and machine learning with experience in building predictive models, and statistical methods. I am working on translating data into practical insights that support financial decision-making, risk management, and optimized research.
+I do data science and machine learning with experience in building predictive models, and implementing statistical methods. I'm working on data that support financial decision-making, risk management, process improvement, and optimized research.
 </p>
 
 <p align="center">
@@ -40,17 +40,6 @@ I do data science and machine learning with experience in building predictive mo
   <img src="https://komarev.com/ghpvc/?username=Nattawut30&color=blue" />
 </p>
 
-# <p align="center"> Training Sessions <p/>
-
-<div align="center">
-
-| No.  | Projects | Brief Descriptions | Topics/Frameworks
-| :---: | :---: | :---: | :---:
-| 01 | [Math Traning](https://github.com/Nattawut30/Math-For-Ai.git) | Mathematics is essential for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python Traning](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
-
-</div>
-
 # <p align="center"> Featured Projects <p/>
 
 <div align="center">
@@ -59,6 +48,17 @@ I do data science and machine learning with experience in building predictive mo
 | :---: | :---: | :---: | :---:
 | 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Big Query
 | 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data integration, and 3D volatility visualization. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
+
+</div>
+
+# <p align="center"> Learning Journey <p/>
+
+<div align="center">
+
+| No.  | Projects | Brief Descriptions | Topics/Frameworks
+| :---: | :---: | :---: | :---:
+| 01 | [Essential-Mathematics](https://github.com/Nattawut30/Math-For-Ai.git) | Mathematics is essential for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
+| 02 | [Python-For-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
 
 </div>
 
@@ -73,5 +73,9 @@ I do data science and machine learning with experience in building predictive mo
   <a href="mailto:nattawut.boonnoon@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
+
+<a href="https://x.com/halabroc">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
 
 </p>
