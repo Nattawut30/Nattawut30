@@ -58,7 +58,7 @@ I do data science and machine learning with experience in building predictive mo
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
 | 01 | [Essential-Mathematics](https://github.com/Nattawut30/Math-For-Ai.git) | Mathematics is essential for data science and machine learning. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python-For-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
+| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI/ML from scratch. Start from set-up to implementing the projects and deploying models. Friendly walkthrough and practical. | SQL, Python, ML/DL, LLMs, NLP
 
 </div>
 
