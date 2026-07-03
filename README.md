@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Research Analyst specializing in data analysis, machine learning, and optimization. Experienced in developing predictive models and statistical frameworks that transform data into actionable insights. Proven records of operations management, and buiness forecasting.
+Research Analyst specializing in data science and machine learning. Experienced in developing predictive models and statistical frameworks that transform data into actionable insights. Proven records of operations management, and buiness forecasting.
 </p>
 
 <p align="center">
