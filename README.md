@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Research Analyst with 3+ years of experience in data analysis, machine learning, and optimization. Skilled in developing predictive models, and statistical frameworks that transform complex data into insights. Experienced in supporting operations management, process improvement, and performance forecasting.
+Research Analyst specializing in data analysis, machine learning, and optimization. Experienced in developing predictive models and statistical frameworks that transform complex data into actionable insights. Proven ability to support operations management, and performance forecasting
 </p>
 
 <p align="center">
