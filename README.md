@@ -1,11 +1,11 @@
 # <p align="center"> Welcome! <p/>
 
 <p align="center">
-  <strong>Hi, I'm Nattawut Boonnoon or "Fluke"</strong>
+  <strong>Nattawut Boonnoon</strong>
 </p>
 
 <p align="center">
-I do data science and machine learning with experience in building predictive models, and implementing statistical methods. I'm working on data that support financial decision-making, risk management, process improvement, and optimized research.
+Research Analyst with 3+ years of experience in data analysis, machine learning, and optimization. Skilled in developing predictive models, and statistical frameworks that transform complex data into insights. Experienced in supporting operations management, process improvement, and performance forecasting.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I do data science and machine learning with experience in building predictive mo
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -58,7 +58,7 @@ I do data science and machine learning with experience in building predictive mo
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
 | 01 | [Essential-Math](https://github.com/Nattawut30/Math-For-Ai.git) | Essential Mathematics for data science. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly and practical. | SQL, Python, DSA, Scikit-learn, Keras/TensorFlow, PyTorch
+| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly and practical. | SQL, Python, Scikit-learn, Keras/TensorFlow, PyTorch
 
 </div>
 
