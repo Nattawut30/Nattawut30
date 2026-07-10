@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Research Analyst specializing in data science and machine learning. Experienced in developing predictive models and statistical frameworks that transform data into business and financial insights. Proven records of process optimization, and performance forecasting.
+Research Analyst specializing in data science and machine learning, with a proven track record of developing predictive models and statistical frameworks that drive business and financial decision-making. Expertise also includes optimization and performance forecasting.
 </p>
 
 <p align="center">
