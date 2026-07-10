@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Research Analyst specializing in data science and machine learning. Experienced in developing predictive models and statistical frameworks that transform data into actionable insights. Proven records of operations management, and buiness forecasting.
+Research Analyst specializing in data science and machine learning. Experienced in developing predictive models and statistical frameworks that transform data into business and financial insights. Proven records of process optimization, and performance forecasting.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Research Analyst specializing in data science and machine learning. Experienced 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 </p>
 
@@ -46,7 +46,7 @@ Research Analyst specializing in data science and machine learning. Experienced 
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Designed a relational database schema for resource allocation using E.F. Codd’s model systems management on healthcare sectors | SQL, MySQL, Big Query
+| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | End-To-End relational database schema and data modeling for resource allocation using E.F. Codd’s model systems management | SQL, MySQL, Big Query
 | 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data API integration, and 3D volatility visualization. | Python, Streamlit, Yfinance, Scipy, Pandas, Numpy, Plotly
 
 </div>
