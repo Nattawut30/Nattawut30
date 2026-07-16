@@ -22,7 +22,6 @@ Research Analyst specializing in data science and machine learning, with a prove
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 </p>
 
@@ -46,8 +45,8 @@ Research Analyst specializing in data science and machine learning, with a prove
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | End-To-End relational database schema and data modeling for resource allocation using E.F. Codd’s model systems management | SQL, MySQL, Big Query
-| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data API integration, and 3D volatility visualization. | Python, Streamlit, Pandas, Numpy, Plotly
+| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | End-To-End relational database schema and data modeling for resource allocation using E.F. Codd’s model | SQL, MySQL, Big Query
+| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data API integration, and 3D volatility visualization. | Python, Streamlit, Pandas, Numpy, Plotly, PyArrow
 
 </div>
 
@@ -57,8 +56,8 @@ Research Analyst specializing in data science and machine learning, with a prove
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Essential-Math](https://github.com/Nattawut30/Math-For-Ai.git) | Essential Mathematics for data science. Let's understand the concepts that underlie every model and algorithm. | Scipy, Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python for AI from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly and practical. | SQL, Python, Scikit-learn, Keras/TensorFlow, PyTorch
+| 01 | [Essential-Math](https://github.com/Nattawut30/Math-For-Ai.git) | Essential Mathematics for data science. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
+| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly. | SQL, Python, Scikit-learn, Keras/TensorFlow, PyTorch
 
 </div>
 
