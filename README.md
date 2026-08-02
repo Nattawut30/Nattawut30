@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Operations Research Analyst with experience in bridging management consulting, business analysis with applied machine learning. Skilled in building predictive models and statistical frameworks that drive market insights and process optimization. Yes... I Read The Code.
+Research Analyst with experience in bridging management consulting and business analysis with applied machine learning. Skilled in building predictive models and statistical frameworks that drive market insights and process optimization. Yes... I Read The Code.
 </p>
 
 <p align="center">
