@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Research Analyst specializing in data science and machine learning, with a proven track record of developing predictive models and statistical frameworks that drive business and financial decision-making. Expertise also includes optimization and forecasting.
+Operations Research Analyst with experience in bridging management consulting, business analysis with applied machine learning. Skilled in building predictive models and statistical frameworks that drive market insights and process optimization. Yes... I Read The Code.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Research Analyst specializing in data science and machine learning, with a prove
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com/?user=Nattawut30&theme=tokyonight&hide_border=false" />
+
 <br></br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nattawut30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
@@ -45,19 +45,20 @@ Research Analyst specializing in data science and machine learning, with a prove
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | End-To-End relational database schema and data modeling for resource allocation using E.F. Codd’s model | SQL, MySQL, Big Query
-| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European options, including implied volatility, live market data API integration, and 3D volatility visualization. | Python, Streamlit, Pandas, Numpy, Plotly, PyArrow
+| 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Full relational database schema and Healthcare data modeling for resource allocation (E.F. Codd’s model) | SQL, MySQL, Big Query
+| 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European/American options, including Finite Differences, Monte Carlo, and Closed-Form PDE Solver. | Python, Streamlit, Pandas, Numpy, Plotly, PyArrow
+| 03 | [Portfolio-Optimization](https://github.com/Nattawut30/MLOps-Portfolio-Optimization-Python.git) | MLOps Pipeline for Portfolio Optimization including Black-Litterman, Brownian motion, Heston stochastic, and FFT.  | Plotly, Scikit-Learn, PyTorch, SciPy, PyArrow, MLFlow
 
 </div>
 
-# <p align="center"> Learning Journey <p/>
+# <p align="center"> Learning Library <p/>
 
 <div align="center">
 
 | No.  | Projects | Brief Descriptions | Topics/Frameworks
 | :---: | :---: | :---: | :---:
-| 01 | [Essential-Math](https://github.com/Nattawut30/Math-For-Ai.git) | Essential Mathematics for data science. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus 
-| 02 | [Python-AI](https://github.com/Nattawut30/Python-For-Ai.git) | Python from scratch. Start from set-up to implementing the projects and deploying models. Beginner friendly. | SQL, Python, Scikit-learn, Keras/TensorFlow, PyTorch
+| 01 | [Essential-Math](https://github.com/Nattawut30/Math-For-Ai.git) | Essential Mathematics for data science. Let's understand the concepts that underlie every model and algorithm. | Linear Algebra, Probability & Statistics, Calculus, SciPy, SymPy 
+| 02 | [Python](https://github.com/Nattawut30/Python-For-Ai.git) | Python from scratch. Start from set-up to implementing the projects and deploying models. Plus+ SQL. | SQL, Python, Scikit-Learn, Keras/TensorFlow, PyTorch
 
 </div>
 
