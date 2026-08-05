@@ -47,7 +47,7 @@ Research Analyst with experience in bridging management consulting and business 
 | :---: | :---: | :---: | :---:
 | 01 | [Relational Database Design](https://github.com/Nattawut30/Relational-Database-Design-MySQL.git) | Full relational database schema and Healthcare data modeling for resource allocation (E.F. Codd’s model) | SQL, MySQL, Big Query
 | 02 | [Black-Scholes Model](https://github.com/Nattawut30/Black-Scholes-Pricing-Model-Python.git) | Pricing European/American options, including Finite Differences, Monte Carlo, and Closed-Form PDE Solver. | Python, Streamlit, Pandas, Numpy, Plotly, PyArrow
-| 03 | [Portfolio-Optimization](https://github.com/Nattawut30/MLOps-Portfolio-Optimization-Python.git) | MLOps Pipeline for Portfolio Optimization including Black-Litterman, Brownian motion, Heston stochastic, and FFT.  | Plotly, Scikit-Learn, PyTorch, SciPy, PyArrow, MLFlow
+| 03 | [Portfolio-Optimization](https://github.com/Nattawut30/MLOps-Portfolio-Optimization-Python.git) | End-To-End MLOps: Portfolio Optimization with Black-Litterman, Risk Parity, and Heston Stochastic Volatility.  | Plotly, Scikit-Learn, PyTorch, SciPy, PyArrow, MLFlow
 
 </div>
 
@@ -62,7 +62,7 @@ Research Analyst with experience in bridging management consulting and business 
 
 </div>
 
-# <p align="center"> Contacts<p/>
+# <p align="center"> Connect With Me <p/>
 
 <p align="center">
 
