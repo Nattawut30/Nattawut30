@@ -76,8 +76,4 @@ Operations Research & ML Analyst working across machine learning, statistical mo
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
 
-<a href="https://x.com/halabroc">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-
 </p>
