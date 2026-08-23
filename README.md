@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Operations Research & ML Analyst working across machine learning, statistical modeling, and management consulting. Experienced in financial and business analysis. Currently exploring modern systems programming, LLM/NLP, and optimization.
+Operations Research & ML Engineer working across machine learning, statistical modeling, and management consulting. Experienced in financial and business analysis. Currently exploring systems programming, LLM/NLP, and optimization.
 </p>
 
 <p align="center">
