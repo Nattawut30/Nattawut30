@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Operations Research/ML Engineer focused on machine learning, statistical modeling, and business analysis. Experienced in forecasting and model evaluation. Currently exploring systems programming, LLMs, and NLP.
+Operations Research/ML Analyst focused on machine learning, statistical modeling, and business analysis. Experienced in forecasting and model evaluation, with a focus on reliable and reproducible research. Currently exploring systems programming, LLMs, and NLP.
 </p>
 
 <p align="center">
