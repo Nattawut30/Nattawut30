@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Operations Research/ML Analyst focused on machine learning, statistical modeling, and business analysis. Experienced in forecasting and model evaluation, with a focus on reliable and reproducible research. Currently exploring LLMs and NLP in actions.
+Operations Research/ML Analyst focused on machine learning, statistical modeling, and business analysis. Experienced in forecasting and model evaluation, with a focus on reliable and reproducible research. Currently exploring LLMs and NLP.
 </p>
 
 <p align="center">
@@ -25,7 +25,6 @@ Operations Research/ML Analyst focused on machine learning, statistical modeling
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=icloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
 </p>
