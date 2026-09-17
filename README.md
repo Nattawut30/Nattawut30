@@ -27,11 +27,9 @@ Operations Research / ML Analyst with a background in mathematics, machine learn
 <br>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Quant_Finance-232F3E?style=for-the-badge&logo=quantconnect&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-232F3E?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
+<img src="https://img.shields.io/badge/Quant_Finance-16A34A?style=for-the-badge&logo=quantconnect&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 </p>
 
