@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Operations Research / ML Analyst with a background in machine learning, statistical and quantitative modeling. Experienced in business analysis, forecasting, and model evaluation, emphasizing reliable and reproducible research. Currently exploring LLMs/NLP.
+Operations Research / ML Analyst with a background in machine learning, statistical and quantitative modeling. Experienced in business analysis, forecasting, and evaluation, emphasizing reliable and reproducible research. Currently exploring LLMs/NLP.
 
 </p>
 
