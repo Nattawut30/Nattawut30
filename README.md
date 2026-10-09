@@ -46,8 +46,6 @@ Operations Research / ML Analyst with a background in machine learning, statisti
 
 </p>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nattawut30&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
 </div>
 
 <p></p>
