@@ -44,15 +44,15 @@
 
 ### [Black–Scholes PDE Solver](https://github.com/Nattawut30/Black-Scholes-PDE-Python)
 
-- European option pricing using the Black–Scholes model.
-- Numerical pricing methods, including finite differences and Monte Carlo simulation, for European and American options.
+- Option pricing using the closed-form Black–Scholes model.
+- Numerical methods including finite differences and Monte Carlo simulation.
 - Implied volatility, option Greeks, and interactive visualizations.
 
 [Live Demo](https://nattawut-blsm.streamlit.app/)
 
 ### [Math for Algorithmic Trading](https://github.com/Nattawut30/Math-Algorithmic-Trading)
 
-- Linear algebra, probability, statistics, calculus, and optimization.
+- Linear algebra, probability/statistics, calculus, and optimization.
 - Mathematical foundations of machine learning models.
 - Applications to quantitative finance, algorithmic trading, and time-series forecasting.
 
@@ -63,7 +63,7 @@
 ### [Python Training](https://github.com/Nattawut30/Python-Training)
 
 - Python fundamentals and data structures.
-- Data analysis with NumPy and Pandas.
+- Data science and Exploratory data analysis.
 - Machine learning, deep learning, and system design.
 
 ### [Systems Programming Lab](https://github.com/Nattawut30/Systems-Programming-Lab)
