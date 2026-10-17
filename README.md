@@ -11,6 +11,8 @@ Operations Research / ML Analyst with a background in machine learning, statisti
 
 <p align="center">
 
+
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,13 +24,12 @@ Operations Research / ML Analyst with a background in machine learning, statisti
 <br>
 
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2EA44F?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </p>
 
